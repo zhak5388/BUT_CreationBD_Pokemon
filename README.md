@@ -1,4 +1,4 @@
-# BUT - SAÉ - S1 - Création d'une Base de Données
+## BUT - SAÉ - S1 - Création d'une Base de Données
 
 Projet de fin du premier semestre de la 1ère année de BUT (Décembre 2022).
 
